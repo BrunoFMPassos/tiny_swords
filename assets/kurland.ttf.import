@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://b5b3uxi0dqgu6"
-path="res://.godot/imported/kurland.ttf-493255a92f3e3c7fbc896ed8978f5ac4.fontdata"
+uid="uid://3jed3avwmev"
+path="res://.godot/imported/kurland.ttf-7c16efa6aa574cee10568a2ba06a64e7.fontdata"
 
 [deps]
 
-source_file="res://assets/env/kurland.ttf"
-dest_files=["res://.godot/imported/kurland.ttf-493255a92f3e3c7fbc896ed8978f5ac4.fontdata"]
+source_file="res://assets/kurland.ttf"
+dest_files=["res://.godot/imported/kurland.ttf-7c16efa6aa574cee10568a2ba06a64e7.fontdata"]
 
 [params]
 

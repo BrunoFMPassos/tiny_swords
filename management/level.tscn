@@ -133,6 +133,7 @@ sources/0 = SubResource("TileSetAtlasSource_kval7")
 script = ExtResource("1_hwlia")
 
 [node name="Water" type="TileMap" parent="Terrain"]
+z_index = -2
 tile_set = SubResource("TileSet_bpp2l")
 rendering_quadrant_size = 64
 format = 2
